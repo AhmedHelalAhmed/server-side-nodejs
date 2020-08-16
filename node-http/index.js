@@ -10,6 +10,7 @@ const server = http.createServer((req, res) => {
 
   if (req.method == "GET") {
     let fileUrl;
+
     if (req.url == "/") {
       fileUrl = "/index.html";
     } else {
@@ -22,6 +23,7 @@ const server = http.createServer((req, res) => {
 
     if (fileExt == ".html") {
       fs.exists(filePath, (exists) => {
+
         if (!exists) {
           res.statusCode = 404;
           res.setHeader("Content-Type", "text/html");
@@ -36,6 +38,7 @@ const server = http.createServer((req, res) => {
           res.setHeader("Content-Type", "text/html");
           fs.createReadStream(filePath).pipe(res);
         }
+        
       });
     } else {
       res.statusCode = 404;
