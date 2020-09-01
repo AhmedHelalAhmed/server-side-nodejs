@@ -20,7 +20,7 @@ db.dishes.insert({
 db.dishes.find()
 db.dishes.find().pretty()
 var id = new ObjectId();id.getTimestamp();
-exist
+exit
 
 # References
 
