@@ -50,3 +50,10 @@ https://docs.mongodb.com/manual/installation/
 https://docs.mongodb.com/manual/administration/install-community/
 https://docs.mongodb.com/manual/mongo/
 https://docs.mongodb.com/manual/
+https://mongodb.github.io/node-mongodb-native
+https://github.com/mongodb/node-mongodb-native
+https://mongodb.github.io/node-mongodb-native/
+https://medium.com/@js_tut/the-great-escape-from-callback-hell-3006fa2c82e
+https://strongloop.com/strongblog/node-js-callback-hell-promises-generators/
+http://bluebirdjs.com/docs/getting-started.html
+http://callbackhell.com/
