@@ -10,8 +10,20 @@ npm install body-parser@1.18.3 --save
 npm install -g express-generator@4.16.0
 mongod --dbpath=data --bind_ip 127.0.0.1
 mongo
+db
+use conFusion
+db.help()
+db.dishes.insert({
+"name": "Uthappizza",
+"description": "Test"
+})
+db.dishes.find()
+db.dishes.find().pretty()
+var id = new ObjectId();id.getTimestamp();
+exist
 
 # references
+
 https://docs.npmjs.com/
 https://nodejs.org/api/
 https://nodejs.org/api/modules.html
