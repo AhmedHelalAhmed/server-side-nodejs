@@ -1,8 +1,8 @@
-# server-side-nodejs
+# Server Side NodeJs
 
 https://www.coursera.org/learn/server-side-nodejs
 
-# commands
+# Commands
 
 npm install express@4.16.3 --save
 npm install morgan@1.9.0 --save
@@ -22,7 +22,7 @@ db.dishes.find().pretty()
 var id = new ObjectId();id.getTimestamp();
 exist
 
-# references
+# References
 
 https://docs.npmjs.com/
 https://nodejs.org/api/
@@ -43,4 +43,8 @@ https://stephensugden.com/middleware_guide/
 https://github.com/senchalabs/connect
 https://expressjs.com/
 https://expressjs.com/en/starter/generator.html
+https://www.mongodb.com/
 https://docs.mongodb.com/manual/installation/
+https://docs.mongodb.com/manual/administration/install-community/
+https://docs.mongodb.com/manual/mongo/
+https://docs.mongodb.com/manual/
