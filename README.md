@@ -23,6 +23,7 @@ var id = new ObjectId();id.getTimestamp();
 exit
 npm install mongodb@3.0.10 --save
 npm install assert@1.4.1 --save
+npm install mongoose@5.1.7 --save
 
 # References
 
