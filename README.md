@@ -66,3 +66,6 @@ https://mongoosejs.com/docs/models.html
 https://mongoosejs.com/docs/subdocs.html
 https://www.npmjs.com/package/mongoose-currency
 https://www.openmymind.net/Multiple-Collections-Versus-Embedded-Documents/#1
+https://scotch.io/tutorials/build-a-restful-api-using-node-and-express-4
+https://adrianmejia.com/creating-a-restful-api-tutorial-with-nodejs-and-mongodb/
+https://closebrace.com/tutorials/2017-03-02/creating-a-simple-restful-web-app-with-nodejs-express-and-mongodb
