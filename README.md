@@ -59,3 +59,9 @@ https://strongloop.com/strongblog/node-js-callback-hell-promises-generators/
 http://bluebirdjs.com/docs/getting-started.html
 http://callbackhell.com/
 https://stackoverflow.com/questions/59475327/mongoosejs-find-returning-whole-model-instead-of-document
+https://mongoosejs.com/
+https://mongoosejs.com/docs/guide.html
+https://mongoosejs.com/docs/models.html
+https://mongoosejs.com/docs/subdocs.html
+https://www.npmjs.com/package/mongoose-currency
+https://www.openmymind.net/Multiple-Collections-Versus-Embedded-Documents/#1
