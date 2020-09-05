@@ -13,7 +13,7 @@ connect.then((db) => {
     description: "test",
   })
     .then((dish) => {
-      console.log(dish);
+      console.log(dish.toObject());
 
       return Dishes.findByIdAndUpdate(
         dish._id,
@@ -21,12 +21,12 @@ connect.then((db) => {
           $set: { description: "Updated test" },
         },
         {
-          new: true,
+          new: true, // to return updated dish in next step
         }
       ).exec();
     })
     .then((dish) => {
-      console.log(dish);
+      console.log(dish.toObject());
 
       dish.comments.push({
         rating: 5,
@@ -37,7 +37,7 @@ connect.then((db) => {
       return dish.save();
     })
     .then((dish) => {
-      console.log(dish);
+      console.log(dish.toObject());
 
       return Dishes.remove({});
     })

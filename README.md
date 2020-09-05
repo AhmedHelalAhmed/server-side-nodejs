@@ -58,3 +58,4 @@ https://medium.com/@js_tut/the-great-escape-from-callback-hell-3006fa2c82e
 https://strongloop.com/strongblog/node-js-callback-hell-promises-generators/
 http://bluebirdjs.com/docs/getting-started.html
 http://callbackhell.com/
+https://stackoverflow.com/questions/59475327/mongoosejs-find-returning-whole-model-instead-of-document
