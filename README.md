@@ -25,6 +25,7 @@ npm install mongodb@3.0.10 --save
 npm install assert@1.4.1 --save
 npm install mongoose@5.1.7 --save
 npm install mongoose-currency@0.2.0 --save
+npm install cookie-parser@1.4.3 --save
 
 # References
 
