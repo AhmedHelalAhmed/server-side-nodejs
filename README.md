@@ -73,3 +73,9 @@ https://adrianmejia.com/creating-a-restful-api-tutorial-with-nodejs-and-mongodb/
 https://closebrace.com/tutorials/2017-03-02/creating-a-simple-restful-web-app-with-nodejs-express-and-mongodb
 https://developer.mozilla.org/en-US/docs/Web/HTTP/Authentication
 https://en.wikipedia.org/wiki/Basic_access_authentication
+https://github.com/expressjs/cookie-parser
+https://github.com/expressjs/session
+https://www.npmjs.com/package/session-file-store
+https://en.wikipedia.org/wiki/HTTP_cookie
+http://expressjs-book.com/index.html%3Fp=128.html
+https://javabeat.net/expressjs-session-management
